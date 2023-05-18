@@ -152,6 +152,9 @@ h1 {
 }
 
 @media (max-width: 600px) {
+  *{
+  font-family: 'Comic Sans MS';
+  }
   .container {
     margin: 10px;
     padding: 10px;
